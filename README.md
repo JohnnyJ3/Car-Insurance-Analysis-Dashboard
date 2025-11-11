@@ -5,7 +5,8 @@ An interactive  Power BI dashboard analyzing $188M in total claims across 37,542
 - <a href="https://github.com/JohnnyJ3/Car-Insurance-Analysis-Dashboard/blob/main/insurance_policies_data%202.xlsx">Dataset</a>
 
 ## Dashboard
-https://github.com/JohnnyJ3/Car-Insurance-Analysis-Dashboard/blob/main/insurance%20%20risk%20image.jpg
+![insurance  risk image (1)](https://github.com/user-attachments/assets/5b6af1a1-566b-4c32-be8e-6aa0760cf051)
+
 
 ## 📊 Key Metrics
 - Total Policies: 37,542  
